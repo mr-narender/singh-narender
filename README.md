@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/-CSS3-181717?style=flat-circle&logo=CSS3&logoColor=darkgreen"/>
     <img src="https://img.shields.io/badge/-Manjaro-181717?style=flat-circle&logo=Manjaro&logoColor=darkgreen"/>
     <img src="https://img.shields.io/badge/-Debian-181717?style=flat-circle&logo=Debian&logoColor=darkgreen"/>
-    <img src="https://img.shields.io/badge/-Postgresql-181717?style=flat-circle&logo=Postgresql&logoColor=darkgreen"/>
     <img src="https://img.shields.io/badge/-Heroku-181717?style=flat-circle&logo=heroku&logoColor=darkgreen"/>
   </p>
 </p>
