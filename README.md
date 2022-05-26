@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <p>
-  <img align="left" width="430" height="190" src="https://github-readme-stats.vercel.app/api?username=nar3nd3r&show_icons=true&hide_border=false&line_height=20&title_color=336791&icon_color=1b93c9&show_owner=true"/>
+  <img align="left" width="430" height="190" src="https://github-readme-stats.vercel.app/api?username=singh-narender&show_icons=true&hide_border=false&line_height=20&title_color=336791&icon_color=1b93c9&show_owner=true"/>
   <p>
     <img src="https://img.shields.io/badge/-Python-181717?style=flat-circle&logo=Python&logoColor=darkgreen"/>
     <img src="https://img.shields.io/badge/-Django-181717?style=flat-circle&logo=Django&logoColor=darkgreen"/>
-     <img src="https://img.shields.io/badge/-Flask-181717?style=flat-circle&logo=Flask&logoColor=darkgreen"/>
-     <img src="https://img.shields.io/badge/-Docker-181717?style=flat-circle&logo=Docker&logoColor=darkgreen"/>
+    <img src="https://img.shields.io/badge/-Flask-181717?style=flat-circle&logo=Flask&logoColor=darkgreen"/>
+    <img src="https://img.shields.io/badge/-Docker-181717?style=flat-circle&logo=Docker&logoColor=darkgreen"/>
     <img src="https://img.shields.io/badge/-Graphql-181717?style=flat-circle&logo=Graphql&logoColor=darkgreen"/>
     <img src="https://img.shields.io/badge/-Postgresql-181717?style=flat-circle&logo=Postgresql&logoColor=darkgreen"/>
     <img src="https://img.shields.io/badge/-Swift-181717?style=flat-circle&logo=Swift&logoColor=darkgreen"/>
